@@ -927,6 +927,8 @@ def about():
     Data science enthusiast
     
     [LinkedIn](https://id.linkedin.com/in/izzuddin-al-qossam-04970589)
+
+    [GitHub](https://github.com/okazzam/)
                
     [Facebook](https://facebook.com/okazzam)
     
